@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+    align-items: center;
+}
+.container{
+    text-align: center;
+    margin-top: 200px;
+    background: black;
+    color: white;
+    border: 1px solid white;
+    height: 400px;
+    width: 50%;
+    margin-left: 400px;
+    border-radius: 10px;
+}
+.content{
+    margin-top: 60px;
+}
+.container h2{
+    font-size: 30px;
+}
+.container button{
+    font-size: 25px;
+    width: 180px;
+    height: 75px;
+    margin: auto 10px;
+    border: none;
+    border-radius: 15px;
+    
+    
+}
